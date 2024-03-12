@@ -1,5 +1,4 @@
-# Multistep form
-# React + TypeScript + Vite
+# Multistep form - React + TypeScript + Vite
 
 # Install
 npm i
